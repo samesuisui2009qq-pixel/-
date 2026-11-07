@@ -1,0 +1,205 @@
+crown	头顶
+forehead	前额
+nape	后颈
+hindneck	后颈
+mantle	上背
+scapulars	肩羽
+back	背部
+rump	腰部
+uppertail-coverts	尾上覆羽
+undertail-coverts	尾下覆羽
+upper-tail coverts	尾上覆羽
+under-tail coverts	尾下覆羽
+vent	肛周
+belly	腹部
+breast	胸部
+throat	喉部
+chin	颏部
+cheek	颊部
+ear-coverts	耳羽
+lores	眼先
+supercilium	眉纹
+eyestripe	眼纹
+eye-ring	眼圈
+orbital ring	眼圈
+moustachial stripe	髭纹
+submoustachial stripe	颚纹
+malar stripe	颚纹
+bill	嘴
+culmen	嘴峰
+gape	嘴角
+nostril	鼻孔
+cere	蜡膜
+iris	虹膜
+wing	翅
+primaries	初级飞羽
+secondaries	次级飞羽
+tertials	三级飞羽
+coverts	覆羽
+greater coverts	大覆羽
+median coverts	中覆羽
+lesser coverts	小覆羽
+alula	小翼羽
+primary projection	初级飞羽突出
+emargination	缺刻
+notch	缺刻
+wingbar	翼斑
+wing-bar	翼斑
+carpal patch	腕斑
+axillaries	腋羽
+underwing	翼下
+uppertail	尾上
+tail-streamers	尾羽延长
+rectrices	尾羽
+rectrix	尾羽
+outer tail-feathers	外侧尾羽
+tarsus	跗跖
+toes	趾
+claws	爪
+hallux	后趾
+webbing	蹼
+juvenile	幼鸟
+immature	亚成鸟
+first-winter	第一年冬羽
+second-winter	第二年冬羽
+first-summer	第一年夏羽
+adult	成鸟
+eclipse	蚀羽
+breeding plumage	繁殖羽
+non-breeding plumage	非繁殖羽
+summer plumage	夏羽
+winter plumage	冬羽
+moult	换羽
+body moult	体羽换羽
+partial moult	部分换羽
+complete moult	完全换羽
+post-juvenile moult	幼后换羽
+pre-breeding moult	繁殖前换羽
+worn	磨损
+fresh	新羽
+barred	横斑
+barring	横斑
+streaked	纵纹
+streaking	纵纹
+spotted	具斑点
+spotted	斑点
+vermiculated	细波纹状
+mottled	斑驳
+scalloped	鳞状
+fringed	具羽缘
+pale fringes	浅色羽缘
+tips	端部
+edges	边缘
+contrast	对比
+dark morph	深色型
+pale morph	浅色型
+morph	色型
+leucistic	白化
+melanistic	黑化
+upperparts	上体
+underparts	下体
+underbody	下体
+sexes	两性
+song	鸣唱
+call	叫声
+calls	叫声
+alarm call	警戒声
+flight call	飞行叫声
+display	炫耀
+courtship	求偶
+territory	领域
+song-flight	鸣唱飞行
+migration	迁徙
+passage	迁徙
+migrant	候鸟
+vagrant	迷鸟
+accidental	偶见种
+resident	留鸟
+summer visitor	夏候鸟
+winter visitor	冬候鸟
+passage migrant	旅鸟
+breeding	繁殖
+nest	巢
+clutch	窝卵数
+brood	窝雏
+incubation	孵卵
+fledgling	离巢幼鸟
+dispersal	扩散
+woodland	林地
+scrub	灌丛
+marsh	沼泽
+reedbed	芦苇荡
+tundra	苔原
+steppe	草原
+taiga	泰加林
+hedgerow	树篱
+riparian	河岸
+mountain	山地
+coast	海岸
+lake	湖泊
+river	河流
+island	岛屿
+bill length	嘴长
+wing length	翅长
+tail length	尾长
+weight	体重
+wing-span	翼展
+underside	腹面
+upperside	背面
+silhouette	轮廓
+proportions	比例
+plumage	羽衣
+bare parts	裸部
+soft parts	裸部
+head pattern	头部图案
+face pattern	脸部图案
+wing pattern	翅上图案
+tail pattern	尾上图案
+underpart streaking	下体纵纹
+breast-band	胸带
+neck-collar	颈环
+eye-stripe	眼纹
+pale wing panel	浅色翼斑
+white wing patch	白色翼斑
+dark trailing edge	深色后缘
+underwing pattern	翼下图案
+flight feathers	飞羽
+wing-coverts	翼覆羽
+upperwing	翼上
+primary tips	初级飞羽端
+tail tip	尾端
+sub-terminal band	次端斑
+subterminal band	次端斑
+belly markings	腹部斑纹
+flank streaking	胁部纵纹
+face	脸部
+head	头部
+neck	颈部
+body	身体
+breast side	胸侧
+lower breast	下胸
+upper breast	上胸
+lower belly	下腹
+central tail	中央尾羽
+outermost tail-feather	最外侧尾羽
+innermost	最内侧
+outermost	最外侧
+dark	深色
+pale	浅色
+light	浅色
+buff	皮黄色
+rufous	红褐色
+tawny	黄褐色
+grey	灰色
+gray	灰色
+brown	褐色
+whitish	偏白
+blackish	偏黑
+dusky	暗色
+olive	橄榄色
+yellowish	偏黄
+reddish	偏红
+uniform	均匀
+plain	素净
+warm	暖调
+cold	冷调
